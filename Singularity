@@ -1,5 +1,4 @@
 Bootstrap: docker
-#From: alpine:latest
 From: anapsix/alpine-java:latest
 
 
